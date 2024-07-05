@@ -2,7 +2,7 @@
 Este projeto foi realizado para demonstrar minhas habilidades e aprendizados em SQL para análise de dados, utilizando um dataset de demissões em empresas ao redor do mundo durante o período de 2020 até 2023.  Através de consultas SQL, realizo uma análise exploratória dos dados para identificar padrões e insights significativos, utilizando desde comandos básicos até JOINS, Common Table Expressions (CTEs) e Window Functions (funções de janela).
 
 ## Sobre o Dataset
-Utilizei um dataset, disponível neste repositório, que abrange demissões em empresas ao redor do mundo durante o período de 2020 até 2023. Esse conjunto de dados inclui as seguintes colunas:
+Utilizei o mesmo dataset que utilizei no meu projeto de limpeza de dados, disponível neste repositório, que abrange demissões em empresas ao redor do mundo durante o período de 2020 até 2023. Esse conjunto de dados inclui as seguintes colunas:
 
 company: Nome da empresa.
 
